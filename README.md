@@ -26,7 +26,7 @@ Step.7: Posting the response through Flask API
 
 Step.8: Dockerize the model to the port number localhost:5000
 
-Steps to setup the keras model:
+Steps to setup setup and run the reopository:
 
 1. Colne the repository
 
