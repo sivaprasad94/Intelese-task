@@ -33,6 +33,8 @@ Steps to setup setup and run the reopository:
 2. Build the docker using "docker build -t dockerfile ."
 
 3. Run the docker using 'docker run -p 5000:5000 dockerfile:latest'
+
+4. open link http://localhost:5000/form to enter the url of video or audio
         
         
         
