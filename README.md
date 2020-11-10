@@ -52,5 +52,5 @@ Step.5: Extracting the detected part of the image as peak
 
 Step.6: Convert back the detected part as Audio
 
-
+The bottleneck in implementing the above approach in clude annotating the large datasets in given timeline, I will work on this approach in coming days.
 
