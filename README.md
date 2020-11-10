@@ -26,6 +26,21 @@ Step.7: Posting the response through Flask API
 
 Step.8: Dockerize the model to the port number localhost:5000
 
+Folder Structure:
+
+1. Surge peaks folder contains the audio analysis python script to detect peaks in audio and the exracted peaks are written to extracted audio folder
+
+2. the video from given url will be downloaded to input audio folder
+
+3. the audio from given url will be downloaded to input video folder
+
+4. Dataset folder contains the information of urbansound dataset and its labels to train CNN model.
+
+5. Keras cnn model folder contains the code to load the pre-trained model and to classify the detected peaks
+
+
+
+
 Steps to setup setup and run the reopository:
 
 1. Colne the repository
